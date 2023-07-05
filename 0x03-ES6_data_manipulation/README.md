@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Uploading image.png…](https://camo.githubusercontent.com/abebdac0202d9f35f908eecb82127603da7eb54e37d593a07b4d433497dc2830/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f63646e2d75706c6f6164732f32303232303631343138333834342f426573742d6b6e6f776e2d41525241592d6d6574686f64732e706e67)
 
 An array is a special variable in all the languages that are used to store different elements. JavaScript array contains some built-in properties that every JavaScript developer should know how to use and when or where to use them. We can use them to add, remove, iterate, or manipulate data as per our requirements.
 
